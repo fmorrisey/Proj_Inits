@@ -1,0 +1,12 @@
+This is the initial project set up for a MERN Stack application using docker.
+
+See the README File for details. You will need to replace the references to the the YouTube Clone name in the following files.
+
+- README.md
+- app.js
+- Docker-compose.yml
+- Server.js
+
+This project will require you to insert the appropriate Mongo Atlas URI connection string in the /backend/.env file.
+
+Remember to clone into and set up your GIT repository manually, but the .gitingore is preserved for ease.
